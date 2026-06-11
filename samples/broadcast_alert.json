@@ -1,0 +1,8 @@
+{
+  "state": {
+    "op": "broadcast",
+    "text": "Twilio WhatsApp channel down — falling back to Telegram. Queue depth 6.",
+    "buttons": [[{"label": "Open queue", "url": "https://app.dataflowadvisory.com/platform/approvals"}]]
+  },
+  "context": {"token_present": true, "operator_chat_ids": [447977011158, 67890]}
+}

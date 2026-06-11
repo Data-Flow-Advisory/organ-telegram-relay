@@ -1,0 +1,4 @@
+{
+  "state": {"op": "verify_operator", "chat_id": 447977011158},
+  "context": {"operator_chat_ids": [447977011158, 12345], "user_chat_ids": [99]}
+}

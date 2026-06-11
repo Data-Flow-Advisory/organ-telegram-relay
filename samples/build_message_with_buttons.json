@@ -1,0 +1,13 @@
+{
+  "state": {
+    "op": "build_message",
+    "chat_id": 447977011158,
+    "text": "PendingWidgetAction #65 awaiting approval — outbound draft to neil.mcshane@av-dawson.com.",
+    "buttons": [
+      {"label": "✅ Approve", "callback_data": "approve:65"},
+      {"label": "❌ Reject", "callback_data": "reject:65"},
+      {"label": "⏭ Skip", "callback_data": "skip:65"}
+    ]
+  },
+  "context": {"token_present": true, "max_chars": 4000}
+}
